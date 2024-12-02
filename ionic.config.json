@@ -1,0 +1,7 @@
+{
+  "name": "aplicacion-medicamentos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
